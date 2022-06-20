@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(#252930 50%, #5372F8 50%);
+}
+
+button{
+    font-size:35px;
+    padding: 25px 30px;
+    background: rgb(146, 19, 19);
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    color: #bcc;
+    font-weight: 500;
+    cursor: pointer;
+
+}
